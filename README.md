@@ -7,7 +7,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro1marandola&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro1marandola&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
 
-![Snake animation](https://github.com/pedro1marandola/pedro1marandola/blob/output/snake.svg)
 
 
 
